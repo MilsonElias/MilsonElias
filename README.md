@@ -1,4 +1,4 @@
-### Olá meu mome é Edmilson 🏆
+### Olá, eu sou Edmilson 🏆
 Transformando ideias em realidade através do poder do código e da criatividade.
 
 [![HTML](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
