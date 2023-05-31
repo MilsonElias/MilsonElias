@@ -7,7 +7,7 @@ Transformando ideias em realidade através do poder do código e da criatividade
 
 <br/>
 
-![Milson GitHub stats](https://github-readme-stats.vercel.app/api?username=MilsonElias&show_icons=true&theme=dark)
+![Milson GitHub stats](https://github-readme-stats.vercel.app/api?username=MilsonElias&show_icons=true&theme=tokyonight)
 
 ## Minhas ferramentas tecnológicas 
 <br/>
