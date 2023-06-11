@@ -1,16 +1,9 @@
 ### Olá, eu sou Edmilson 🏆
 Transformando ideias em realidade através do poder do código e da criatividade.
 
-[![HTML](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![SASS](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-
-<br/>
-
 ![Milson GitHub stats](https://github-readme-stats.vercel.app/api?username=MilsonElias&show_icons=true&theme=tokyonight)
 
-## Minhas ferramentas tecnológicas 
-<br/>
+### Minhas ferramentas tecnológicas 
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
